@@ -6,7 +6,13 @@
 - ⚙️ Backend in **Go**, apps in **Flutter**, web frontends in **Vue**
 - ☁️ Infrastructure with **Docker** and **Terraform**
 - 🤖 Exploring AI agents to speed up how software gets specified and delivered
-- 📦 Open source: [pocketbase_utils](https://github.com/Fearlix-SRL/pocketbase_utils), type-safe PocketBase bindings for Flutter
+
+### 📦 Projects
+
+| Project | What it is |
+|---|---|
+| 🔳 [**qrcode_generator**](https://github.com/Alemazz99/qrcode_generator) | Custom QR codes (colors, style, logo) as a desktop app, a [web app](https://alemazz99.github.io/qrcode_generator/) and a self-hosted service for **dynamic QR codes** with editable destination and scan analytics. Python · PySide6 · Go · SQLite/Postgres |
+| 🧩 [**pocketbase_utils**](https://github.com/Fearlix-SRL/pocketbase_utils) | Dart package that generates type-safe Flutter bindings from a PocketBase schema |
 
 ### 🛠️ Stack
 
